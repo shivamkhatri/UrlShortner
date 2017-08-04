@@ -1,0 +1,17 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.navbar
+{
+  background-color: darkorange;
+}
+
+.navbar-default .navbar-brand
+{
+  color: darkblue;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+  color: darkblue;
+}
